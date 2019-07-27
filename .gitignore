@@ -1,5 +1,5 @@
-build/
-! build/Makefile
-src/libs
-src/dc
-! src/dc/scripts/
+build/*
+!build/Makefile
+src/libs/
+src/dc/
+!src/dc/scripts/*
